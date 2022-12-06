@@ -5,6 +5,9 @@ Spam discord chats with the simplicity of a keystroke.
 <p>
 <ol>
   <li>
+    Turn on "Show Send Message Button;" User settings > Chat Input > Show Send Message Button.
+  </li>
+  <li>
     Copy the code and paste into discords console.
   </li>
   <li>
